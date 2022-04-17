@@ -1,8 +1,6 @@
 [
   {
     "title": "Foods",
-    "data": [
-      {
         "image":
           "https://res.edu.vn/wp-content/uploads/2021/12/unit-46-topic-food.jpeg",
         "foodName": "Fast foods",
@@ -19,13 +17,9 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/640px-Good_Food_Display_-_NCI_Visuals_Online.jpg",
         "foodName": "Fishes",
         "foodPrice": 50000
-      }
-    ]
-  },
+      },
   {
     "title": "Drinks",
-    "data": [
-      {
         "image": "https://cdn.tgdd.vn/2021/05/content/1-800x450-54.jpg",
         "foodName": "Gas drinks",
         "foodPrice": 120000
@@ -47,12 +41,9 @@
         "foodName": "Vodka drinks",
         "foodPrice": 50000
       }
-    ]
-  },
+    ,
   {
     "title": "Snacks",
-    "data": [
-      {
         "image":
           "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/snacks-in-america.jpg?quality=82&strip=1",
         "foodName": "Snacks fast",
@@ -76,12 +67,10 @@
         "foodName": "Chocolate",
         "foodPrice": 50000
       }
-    ]
-  },
+  ,
   {
     "title": "Sauce",
-    "data": [
-      {
+
         "image":
           "https://upload.wikimedia.org/wikipedia/commons/5/52/Fresh_Tomato_Sauce_%28Unsplash%29.jpg",
         "foodName": "Tomato sauce",
@@ -99,12 +88,10 @@
         "foodName": "Chili sauce",
         "foodPrice": 1202020
       }
-    ]
-  },
+,
   {
     "title": "Soup",
-    "data": [
-      {
+
         "image":
           "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/06/vegetable-soup-500x375.jpg",
         "foodName": "Soup sauce",
@@ -122,12 +109,10 @@
         "foodName": "Chili things",
         "foodPrice": 1202020
       }
-    ]
-  },
+,
   {
     "title": "Vietnamese Food",
-    "data": [
-      {
+
         "image":
           "https://media-int.vnecdn.net/4027097/data/images/2019/12/14/trangpinkyy_1576285452_VnEx.jpg",
         "foodName": "Goi cuon",
@@ -145,12 +130,10 @@
         "foodName": "Chili things",
         "foodPrice": 1202020
       }
-    ]
-  },
+,
   {
     "title": "Korean Food",
-    "data": [
-      {
+
         "image":
           "https://www.thespruceeats.com/thmb/xGusGYYmKSt0reKSB31KJwXkwtE=/3060x2040/filters:no_upscale():max_bytes(150000):strip_icc()/classic-korean-bibimbap-recipe-2118765-step-011-acab906539594dc9a668c7fbb753c43d.jpg",
         "foodName": "Bibimbap",
@@ -168,12 +151,10 @@
         "foodName": "Fried things",
         "foodPrice": 1202020
       }
-    ]
-  },
+,
   {
     "title": "Japanese Food",
-    "data": [
-      {
+
         "image":
           "http://cdn.cnn.com/cnnnext/dam/assets/170131184355-gbs-bento-box.jpg",
         "foodName": "Bento ",
@@ -190,12 +171,10 @@
         "foodName": "Udon",
         "foodPrice": 1202020
       }
-    ]
-  },
+,
   {
     "title": "Chinese Food",
-    "data": [
-      {
+
         "image":
           "https://purewows3.imgix.net/images/articles/2021_12/traditional-chinese-food-FB.jpg?auto=format,compress&cs=strip",
         "foodName": "BB",
@@ -213,12 +192,10 @@
         "foodName": "Chili things",
         "foodPrice": 1202020
       }
-    ]
-  },
+,
   {
     "title": "Italia Food",
-    "data": [
-      {
+
         "image": "https://cdn2.webdamdb.com/1280_sjbxhWwKtBb1.jpg?1606517700",
         "foodName": "Goi cuon",
         "foodPrice": 1202020
@@ -235,7 +212,6 @@
         "foodName": "Chili things",
         "foodPrice": 1202020
       }
-    ]
-  }
+
 ]
 
